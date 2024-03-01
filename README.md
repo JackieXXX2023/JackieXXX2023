@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackieXXX2023
-- 👀 I’m interested in AR, XR, and embedding media into physical objects with data and machine learning. 
-- 🌱 I’m currently learning Interaction Design
-- 💞️ I’m looking to collaborate on public media art projects (for internship)
+- 👀 I’m interested in AR, XR and big data.
+- 🌱 I’m currently learning Interaction Design. 
+- 💞️ I’m looking to collaborate on public media art projects.
 - 📫 plz to totheworld_127@outlook.com
 
 <!---
