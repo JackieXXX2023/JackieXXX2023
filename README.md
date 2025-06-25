@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackieXXX2023
 - 👀 I’m interested in AR, XR and big data.
-- 🌱 I’m currently learning Interaction Design. 
+- 🌱 UX Design/Data Analyst/Illustrator 
 - 💞️ I’m looking to collaborate on public media art projects.
 - 📫 plz to totheworld_127@outlook.com
 
